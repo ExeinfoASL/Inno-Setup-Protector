@@ -1,7 +1,8 @@
 
 ------------------------------------------------------------------
 
-Program name : Inno Setup v5.x - v7.0 Protect
+Program name : Inno Setup v5.x - v7.0 Protector
+
 Version      : 1.0.2.1 - 2026.07 - Free Beta !
 
 Author	     : A.S.L Soft
